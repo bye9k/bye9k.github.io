@@ -1,0 +1,60 @@
+
+textarea::placeholder {
+line-height: 100px; 
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 900px;
+}
+
+.u-section-1 .u-form-1 {
+  height: 870px;
+  width: 840px;
+  margin: 90px auto 60px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-left: 0;
+  font-size: 1.1rem;
+}
+
+.u-section-1 .u-btn-1 {
+  letter-spacing: 1px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: none;
+  font-family: Cuprum;
+  padding: 10px 20px 10px 20px;
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-form-1 {
+    width: 730px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 876px;
+  }
+
+  .u-section-1 .u-form-1 {
+    margin-top: 60px;
+    width: auto;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 900px;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: auto;
+
+  }
+}

@@ -1,0 +1,13 @@
+body {
+	background-color: EADEBD;
+  background-image: url(../../images/drugie-mesta.png);
+  background-repeat: repeat-y;
+ background-position: 90% 50%;
+
+}
+.u-section-1,
+.u-section-2,
+.u-section-3
+        {
+            background: none;
+        }

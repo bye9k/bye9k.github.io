@@ -1,0 +1,41 @@
+
+
+.u-section-1 .u-sheet-1 {
+  min-height: 926px;
+}
+
+.u-section-1 .u-text-1 {
+	width: 1000px;
+  margin: 60px auto 60px ;
+
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+	  width: 900px;
+    
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+	  width: 700px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+	  width: 510px;
+
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+	  width: 500px;
+
+  }
+}
+
+
+
