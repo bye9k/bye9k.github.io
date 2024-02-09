@@ -86,7 +86,10 @@ padding-left: 5px;
   }
 
   .u-section-1 .u-text-1 {
-    margin: auto;
+      margin-right: 400px;
+    margin-left: -400px;
+	  min-width: 90%;
+	  max-width: 98%;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 90px;
