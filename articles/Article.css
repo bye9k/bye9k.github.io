@@ -4,7 +4,7 @@
   margin-right: 0;
   margin-left: 0;
 
- text-shadow: 1px 1px 0px #EADEBD, 1px -1px 0px #EADEBD, -1px 1px 0px #EADEBD, -1px -1px 0px #EADEBD, 2px 2px 1px #EADEBD, 2px -2px 1px #EADEBD, -2px 2px 1px #EADEBD, -2px -2px 1px #EADEBD, 3px 3px 2px #EADEBD, 3px -3px 2px #EADEBD, -3px 3px 2px #EADEBD, -3px -3px 2px #EADEBD;
+text-shadow: 1px 1px 0px #EADEBD, 1px -1px 0px #EADEBD, -1px 1px 0px #EADEBD, -1px -1px 0px #EADEBD, 2px 2px 1px #EADEBD, 2px -2px 0px #EADEBD, -2px 2px 0px #EADEBD, -2px -2px 0px #EADEBD, 3px 3px 0px #EADEBD, 3px -3px 0px #EADEBD, -3px 3px 0px #EADEBD, -3px -3px 0px #EADEBD;
 
 
 }
