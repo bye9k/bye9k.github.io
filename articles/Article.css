@@ -86,8 +86,9 @@ padding-left: 5px;
   }
 
   .u-section-1 .u-text-1 {
+	  width: 96%;
     margin-right: 400px;
-    margin-left: -450px;
+    margin-left: -400px;
   }
 
 
