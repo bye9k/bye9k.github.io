@@ -5,9 +5,23 @@ body {
  background-position: 90% 50%;
 
 }
+@media (max-width: 1199px) { body
+{background-position: 95% 50%;}
+}
 .u-section-1,
 .u-section-2,
 .u-section-3
         {
             background: none;
         }
+		
+		
+		@media (max-width: 767px) { body{
+	background-color: EADEBD;
+  background-image: none;
+
+}
+.u-section-1 { background-image: url(../../images/2drugie-mesta.png);
+  background-repeat: repeat-x;
+ background-position: 50% 0%;}
+}
