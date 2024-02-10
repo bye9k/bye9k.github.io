@@ -83,12 +83,11 @@ padding-left: 5px;
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
     min-height: 1000px;
-	  width: 96%
   }
 
   .u-section-1 .u-text-1 {
     margin-right: 400px;
-    margin-left: -400px;
+    margin-left: -450px;
   }
 
 
